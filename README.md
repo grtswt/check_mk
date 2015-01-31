@@ -1,0 +1,3 @@
+# check_mk
+my check_mk work
+Experimental stuff. Probably won´t work...
